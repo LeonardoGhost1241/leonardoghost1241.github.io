@@ -16,7 +16,7 @@ timezone: America/Mexico_City
 
 title: Leonardo Escobar Herrera # the main title
 
-tagline: La semilla es la duda y el fruto es la respuesta # it will display as the subtitle
+tagline: La duda es la semilla y la respuesta es el fruto # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
