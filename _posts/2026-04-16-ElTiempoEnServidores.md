@@ -4,8 +4,6 @@ date: 2026-04-16
 tags: [linux, servidores, tiempo, ntp, sysadmin]
 ---
 
-# La importancia de mantener la hora en servidores
-
 ### Introducción
 
 Cuando hablamos del tiempo en tecnología, un usuario promedio suele pensar que todo se reduce a cambiar la zona horaria para ver la hora correcta. Sin embargo, detrás de esto hay mucho más de lo que parece.
