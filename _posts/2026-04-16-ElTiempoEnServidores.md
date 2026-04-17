@@ -1,3 +1,9 @@
+---
+title: "La importancia del tiempo en servidores Linux"
+date: 2026-04-16
+tags: [linux, servidores, tiempo, ntp, sysadmin]
+---
+
 # La importancia de mantener la hora en servidores
 
 ### Introduccion 
